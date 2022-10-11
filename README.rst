@@ -1,8 +1,8 @@
 |PyPI version| |Docs badge| |Chat badge| |Build Status| |Code Of Conduct| |Mailing Lists| |License| |CII Best Practices|
 
-*******
+********
 Ansible
-*******
+********
 
 Ansible is a radically simple IT automation system. It handles
 configuration management, application deployment, cloud provisioning,
